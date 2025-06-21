@@ -16,16 +16,15 @@ React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 </p>
 
 ## 💅 Style
 <p>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" />
 
 </p>
@@ -42,9 +41,9 @@ React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합
 
 <br/>
 
-## 🧞‍♂️ Portfolio Link
+## 🔗 Link
 <p>
-📫 My Email : <a href="sirubom1203@gmail.com">sirubom1203@gmail.com</a> 
+📫 My Email :<a href="mailto:sirubom1203@gmail.com">sirubom1203@gmail.com</a>
 </p>
 <p>
   🌐 My Portfolio : <a href="https://github.com/Porc-FE/Bomin">Bomin's Portfolio</a> (진행중)
@@ -57,7 +56,6 @@ React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합
 <p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchbom&layout=compact&theme=tokyonight" />
 </p>
-
 
 <br />
 <p align="">
