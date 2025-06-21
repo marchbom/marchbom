@@ -27,8 +27,11 @@
 
 ## 🧞‍♂️ Portfolio Link
 <p>
-📫 sirubom1203@gmail.com |
-🌐 <a href="https://github.com/Porc-FE/Bomin">Portfolio</a>
+📫 My Email : <a href="sirubom1203@gmail.com">sirubom1203@gmail.com</a> 
+</p>
+<p>
+  🌐 My Portfolio : <a href="https://github.com/Porc-FE/Bomin">Bomin's Portfolio</a> (진행중)
+
 </p>
 
 
