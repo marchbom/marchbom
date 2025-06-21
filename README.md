@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=안녕하세요+프론트엔드+개발자+김보민입니다!;&color=FF69B4&left=true&size=20&duration=3000&pause=1500" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=안녕하세요+프론트엔드+개발자+김보민입니다!;&color=18DEA2&left=true&size=20&duration=3000&pause=1500" />
 </h1>
 
 <p align="center">🌱 프론트엔드 개발자 | React · Vue · TypeScript | 사용자 중심 UI/UX 지향</p>
