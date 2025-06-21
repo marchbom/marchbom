@@ -31,8 +31,8 @@ React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합
 
 ##  🛠️ Tools & Communication
 <p>
-   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
 
@@ -43,7 +43,7 @@ React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합
 
 ## 🔗 Link
 <p>
-📫 My Email :<a href="mailto:sirubom1203@gmail.com">sirubom1203@gmail.com</a>
+📫 My Email : <a href="mailto:sirubom1203@gmail.com">sirubom1203@gmail.com</a>
 </p>
 <p>
   🌐 My Portfolio : <a href="https://github.com/Porc-FE/Bomin">Bomin's Portfolio</a> (진행중)
@@ -53,6 +53,7 @@ React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합
 
 <br />
 <br />
+
 <p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchbom&layout=compact&theme=tokyonight" />
 </p>
