@@ -26,7 +26,7 @@
 <br/>
 
 ## 🧞‍♂️ Portfolio Link
-<p align="">
+<p>
 📫 sirubom1203@gmail.com |
 🌐 <a href="https://github.com/Porc-FE/Bomin">Portfolio</a>
 </p>
@@ -35,12 +35,12 @@
 <br />
 <br />
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchbom&layout=compact&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchbom&layout=compact&theme=tokyonight" />
 </p>
 
 
 <br />
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=marchbom&show_icons=true&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marchbom&show_icons=true&theme=tokyonight" />
 </p>
 
