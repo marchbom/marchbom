@@ -64,3 +64,5 @@ React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합
   <img src="https://github-readme-stats.vercel.app/api?username=marchbom&show_icons=true&theme=tokyonight" />
 </p>
 
+### 💩 똥커밋은 하지 않습니다.
+
