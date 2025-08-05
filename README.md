@@ -10,6 +10,7 @@ React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합
 - 🤝 협업과 커뮤니케이션을 중요하게 생각합니다
 - 🎨 디자인과 개발 사이에서 균형 잡힌 구현을 지향합니다
 
+---
 
 ## 💻 Tech Stack
 
@@ -55,14 +56,13 @@ React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합
 
 <br />
 <br />
+<img src="https://komarev.com/ghpvc/?username=marchbom&label=Profile%20views&color=0e75b6&style=flat" />
 
+
+---
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchbom&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marchbom&show_icons=true&theme=graywhite" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchbom&layout=compact&theme=graywhite" />
 </p>
-
-<br />
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=marchbom&show_icons=true&theme=tokyonight" />
-</p>
-
 
