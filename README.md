@@ -1,13 +1,13 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=안녕하세요+프론트엔드+개발자+김보민입니다!;&color=18DEA2&left=true&size=20&duration=3000&pause=1500" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=안녕하세요+프론트엔드+개발자+김보민입니다!;&color=18DEA2&left=true&size=20&duration=3000&pause=2000" />
 </h1>
 
 ## 👩‍💻 About Me
 안녕하세요! 프론트엔드 개발자 김보민입니다.  
 React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합니다.
 
-- 🧠 기술적 깊이를 쌓는 걸 좋아해요  
-- 🤝 협업과 커뮤니케이션을 중요하게 생각합니다  
+- 🧠 기술적 깊이를 쌓는 걸 좋아합니다 
+- 🤝 협업과 커뮤니케이션을 중요하게 생각합니다
 - 🎨 디자인과 개발 사이에서 균형 잡힌 구현을 지향합니다
 
 
@@ -20,6 +20,7 @@ React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Zustand-🐻?style=flat" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white" />
 </p>
 
 ## 💅 Style
@@ -36,8 +37,8 @@ React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
-
-
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  
 </p>
 
 <br/>
