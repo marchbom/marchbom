@@ -4,9 +4,9 @@
 
 ## 👩‍💻 About Me
 안녕하세요! 프론트엔드 개발자 김보민입니다.  
-React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합니다.
+React, Next.js, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합니다.
 
-- 🧠 기술적 깊이를 쌓는 걸 좋아합니다 
+- 🧠 호기심을 충족시키기 위한 도전을 좋아합니다 
 - 🤝 협업과 커뮤니케이션을 중요하게 생각합니다
 - 🎨 디자인과 개발 사이에서 균형 잡힌 구현을 지향합니다
 
@@ -64,7 +64,7 @@ React, Vue, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합
 
 
 ---
-<p align="">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=marchbom&show_icons=true&theme=graywhite" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchbom&layout=compact&theme=graywhite" />
