@@ -1,14 +1,14 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=안녕하세요+프론트엔드+개발자+김보민입니다!;&color=18DEA2&left=true&size=20&duration=3000&pause=2000" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=프론트엔드+개발자+김보민입니다;&color=18DEA2&left=true&size=20&duration=3000&pause=2000" />
 </h1>
 
 ## 👩‍💻 About Me
-안녕하세요! 프론트엔드 개발자 김보민입니다.  
+안녕하세요 프론트엔드 개발자 김보민입니다.  
 React, Next.js, TypeScript 기반으로 효율적이고 감각적인 UI를 추구합니다.
 
 - 🧠 호기심을 충족시키기 위한 도전을 좋아합니다 
 - 🤝 협업과 커뮤니케이션을 중요하게 생각합니다
-- 🎨 디자인과 개발 사이에서 균형 잡힌 구현을 지향합니다
+- 🎨 디자인과 개발 사이의 균형 잡힌 구현을 지향합니다
 
 ---
 
@@ -53,7 +53,7 @@ React, Next.js, TypeScript 기반으로 효율적이고 감각적인 UI를 추�
 📫 My Email : <a href="mailto:sirubom1203@gmail.com">sirubom1203@gmail.com</a>
 </p>
 <p>
-  🌐 My Portfolio : <a href="https://github.com/Porc-FE/Bomin">Bomin's Portfolio</a> (진행중)
+  🌐 My Portfolio : <a href="https://github.com/marchbom/Bomin_portfolio">Bomin's Portfolio</a> (진행중)
 
 </p>
 
