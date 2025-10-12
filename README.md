@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=프론트엔드+개발자+김보민입니다;&color=18DEA2&left=true&size=20&duration=3000&pause=2000" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EB%B3%B4%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4;&color=FFA94D&left=true&size=20&duration=3500&pause=4000" />
 </h1>
 
 ## 👩‍💻 About Me
