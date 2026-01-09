@@ -1,7 +1,3 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EB%B3%B4%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4;&color=FFA94D&left=true&size=20&duration=3500&pause=4000" />
-</h1>
-
 ## 👩‍💻 About Me
 안녕하세요 프론트엔드 개발자 김보민입니다.  
 React, Next.js, TypeScript 기반으로 효율적이고 사용성이 좋은 UI를 추구합니다.
@@ -15,7 +11,6 @@ React, Next.js, TypeScript 기반으로 효율적이고 사용성이 좋은 UI�
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
@@ -46,14 +41,10 @@ React, Next.js, TypeScript 기반으로 효율적이고 사용성이 좋은 UI�
   
 </p>
 
-<br/>
 
 ## 🔗 Link
 <p>
 📫 My Email : <a href="mailto:sirubom1203@gmail.com">sirubom1203@gmail.com</a>
 </p>
-<p>
-  🌐 My Portfolio : <a href="https://github.com/marchbom/Bomin_portfolio">Bomin's Portfolio</a> (진행중)
 
-</p>
 
